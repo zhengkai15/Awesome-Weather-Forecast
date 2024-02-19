@@ -19,5 +19,22 @@ An algorithm that automatically obtains data from a remote server on a regular b
 <div align=left>
 
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
+
+## *Content*
+* *Medium Range*:
+  * ⭐(Nature 2023) *FuXi*, chen2023fuxi et al. [[Paper](https://www.nature.com/articles/s41612-023-00512-1)]
+    * 🍬 FuXi: ***the first*** : A cascade machine learning forecasting system for 15-day global weather forecast.
+  * ⭐(Nature 2023) *Pangu*,[[Paper](https://www.nature.com/articles/s41586-023-06185-3)]
+    * 🍬 Pangu: ***the first*** : Accurate medium-range global weather forecasting with 3D neural networks.
+  * ⭐(Science 2023) *GraphCast*, [[Paper](https://www.science.org/doi/10.1126/science.adi2336)]
+    * 🍬 GraphCast: ***the first*** : Learning skillful medium-range global weather forecasting 
+  * 
+* *NowCasting*:
+  * *Precipitation*:
+* *Seasonal*
+
+[//]: # ([*Contact Me*]&#40;#head7&#41;)
+
+## <span id="head7"> *Contact Me* </span>
+* If you have any questions, please feel free to contact [Shrimponthekeyboard](https://zhengkai15.github.io/) ლ(╹◡╹ლ)
