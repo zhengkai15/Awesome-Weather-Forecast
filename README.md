@@ -28,11 +28,24 @@ An algorithm that automatically obtains data from a remote server on a regular b
   * ⭐(Nature 2023) *Pangu*,[[Paper](https://www.nature.com/articles/s41586-023-06185-3)]
     * 🍬 Pangu: ***the first*** : Accurate medium-range global weather forecasting with 3D neural networks.
   * ⭐(Science 2023) *GraphCast*, [[Paper](https://www.science.org/doi/10.1126/science.adi2336)]
-    * 🍬 GraphCast: ***the first*** : Learning skillful medium-range global weather forecasting 
+    * 🍬 GraphCast: ***the first*** : Learning skillful medium-range global weather forecasting.
   * 
 * *NowCasting*:
   * *Precipitation*:
-* *Seasonal*
+    * ⭐(Nature 2023) *NowcastNet*, [[Paper](https://www.nature.com/articles/s41586-023-06184-4)]
+      * 🍬 NowcastNet: ***the first*** : Skilful nowcasting of extreme precipitation with NowcastNet
+    * ⭐(Nature 2023) *Corrformer*, [[Paper](https://www.nature.com/articles/s42256-023-00667-9)]
+      * 🍬 Corrformer: ***the first*** : Interpretable weather forecasting for worldwide stations with a unified deep model
+* *Seasonal*:
+  * ⭐(Arxiv preprint 2023) *S2S*, [[Paper](https://arxiv.org/abs/2312.09926)]
+* *Climate*:
+  * 
+* *Extreme*:
+  * Typhoon:
+  * 
+* *SR*:
+  * ⭐(RMetS 2023) *Uformer* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4596)]
+  * 🍬 Uformer : Investigating transformer-based models for spatial downscaling and correcting biases of near-surface temperature and wind-speed forecasts.
 
 [//]: # ([*Contact Me*]&#40;#head7&#41;)
 
