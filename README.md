@@ -15,3 +15,5 @@
  [![Star History Chart](https://api.star-history.com/svg?repos=zhengkai15/Awesome-Weather-Forecast&type=Date)](https://star-history.com/#zhengkai15/Awesome-Weather-Forecast&Date)
 </p>
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
+
+* - [x] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
