@@ -76,13 +76,13 @@ An algorithm that automatically obtains data from a remote server on a regular b
 
 * *Climate*:
   * ⭐(Nature 2019) *ENSO*, [[Paper](https://www.nature.com/articles/s41586-019-1559-7)]
-        * 🍬 ENSO: ***the first*** : MetNet: A Neural Weather Model for Precipitation Forecasting
+    * 🍬 ENSO: ***the first*** : MetNet: A Neural Weather Model for Precipitation Forecasting
   * ⭐(Nature 2023) *Climate*,  [[Paper](https://arxiv.org/pdf/2302.10480.pdf)] 
-        * 🍬 Climate: ***the first*** : Climate Model Driven Seasonal Forecasting Approach with Deep Learning
+    * 🍬 Climate: ***the first*** : Climate Model Driven Seasonal Forecasting Approach with Deep Learning
 
 * *Extreme*:
   * ⭐(Nature 2019) *FuXi-Extreme*, [[Paper](https://arxiv.org/abs/2310.19822)]
-        * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
+    * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
   * Typhoon:
 
 * *SR*:
