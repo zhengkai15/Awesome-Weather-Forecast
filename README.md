@@ -88,11 +88,38 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * *SR*:
   * ⭐(RMetS 2023) *Uformer* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4596)]
     * 🍬 Uformer : Investigating transformer-based models for spatial downscaling and correcting biases of near-surface temperature and wind-speed forecasts.
-  * ⭐(NeurIPS 2022) *PSD-Net* [[Paper](https://link.springer.com/article/10.1007/s00382-022-06343-9)]
+  * ⭐(Earth-Science Reviews 2023) ** [[Paper](https://www.sciencedirect.com/science/article/pii/S0012825222001945)]
+    * 🍬 A comprehensive review on deep learning based remote sensing image super-resolution methods
+  * ⭐(NeurIPS 2022) *RCMs* [[Paper](https://link.springer.com/article/10.1007/s00382-022-06343-9)]
     * 🍬 RCMs : Regional climate model emulator based on deep learning: concept and first evaluation of a novel hybrid downscaling approach
+  * ⭐(NeurIPS 2021) *ESRGAN* [[Paper](https://www.climatechange.ai/papers/neurips2021/17)]
+    * 🍬 A comparative study of convolutional neural network models for wind field downscaling
+  * ⭐(Water Resources Research 2021) *SRDRN* [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308)]
+    * 🍬 Deep learning for daily precipitation and temperature downscaling
+  * ⭐(IEEE Transactions on Geoscience and Remote Sensing 2021) *PSD-Net* [[Paper](https://ieeexplore.ieee.org/document/9246532)]
+    * 🍬 Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network
+  * ⭐(Meteorological Applications 2020) *DeepRU* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.1961)]
+    * 🍬 A comparative study of convolutional neural network models for wind field downscaling
+  * ⭐(Association for Computing Machinery 2020) *YNet* [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403366)]
+    * 🍬 Climate downscaling using ynet: a deep convolutional network with skip connections and fusion
+  * ⭐(Mathematical Problems in Engineering 2020) *CDN* [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403366](https://www.hindawi.com/journals/mpe/2020/7897824/)]
+    * 🍬 A climate downscaling deep learning model considering the multiscale spatial correlations and chaos of meteorological events
+  * ⭐(Journal of Applied Meteorology and Climatology 2020a) ** [[Paper](https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0057.1.xml)]
+    * 🍬 Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain. Part i: daily maximum and minimum 2-m temperature
+  * ⭐(Journal of Applied Meteorology and Climatology 2020b) ** [[Paper](https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0058.1.xml)]
+    * 🍬 Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain. Part i: daily maximum and minimum 2-m temperature
   * ⭐(NeurIPS 2019) *PSD-Net* [[Paper](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_75.pdf)]
     * 🍬 PSD-Net : Numerical Weather Model Super-Resolution
+  * ⭐(Theoretical and Applied Climatology 2019) ** [[Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3)]
+    * 🍬 Intercomparison of machine learning methods for statistical downscaling: the case of daily and extreme precipitation
+  * ⭐(Association for Computing Machinery 2017) *Deepsd* [[Paper](https://doi.org/10.1145/3097983.3098004)]
+    * 🍬 Deepsd: generating high resolution climate change projections through single image super-resolution. Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining
 
+* *DA*
+  * ⭐(Arxiv preprint 2023) *FengWu-4DVar* [[Paper](https://arxiv.org/abs/2312.12455)]
+    * 🍬 FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation
+
+ 
 [//]: # ([*Contact Me*]&#40;#head7&#41;)
 
 ## <span id="head7"> *Contact Me* </span>
