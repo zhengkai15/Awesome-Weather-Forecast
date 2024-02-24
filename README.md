@@ -54,8 +54,6 @@ An algorithm that automatically obtains data from a remote server on a regular b
       * 🍬 MetNet3: ***the first*** : Deep Learning for Day Forecasts from Sparse Observations
     * ⭐(Arxiv preprint 2023) *MetNet2*, [[Paper](https://www.nature.com/articles/s41467-022-32483-x)]
       * 🍬 MetNet2: ***the first*** : Deep learning for twelve hour precipitation forecasts
-    * ⭐(Arxiv preprint 2023) *MetNet2*, [[Paper](https://www.nature.com/articles/s41467-022-32483-x)]
-      * 🍬 MetNet2: ***the first*** : Deep learning for twelve hour precipitation forecasts
     * ⭐(Arxiv preprint 2023) *MetNet*, [[Paper](https://arxiv.org/abs/2003.12140)]
       * 🍬 MetNet: ***the first*** : MetNet: A Neural Weather Model for Precipitation Forecasting
     * ⭐(Arxiv preprint 2023) *PreDiff*, [[Paper](https://arxiv.org/abs/2307.10422)]
