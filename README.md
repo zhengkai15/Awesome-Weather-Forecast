@@ -19,7 +19,7 @@ An algorithm that automatically obtains data from a remote server on a regular b
 <div align=left>
 
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-* - [✅] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
+* [✅] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## *Content*
 * *Medium Range*:
