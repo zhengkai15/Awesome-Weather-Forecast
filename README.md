@@ -37,9 +37,8 @@ An algorithm that automatically obtains data from a remote server on a regular b
     * 🍬 W-MAE: ***the first*** : W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting
   * ⭐(Arxiv preprint 2023) *SAFNO*, [[Paper](https://arxiv.org/pdf/2306.03838.pdf)]
     * 🍬 SAFNO: ***the first*** : Spherical Fourier Neural Operators:Learning Stable Dynamics on the Sphere
-  * https://arxiv.org/pdf/2306.03838.pdf
-    * ⭐(Arxiv preprint 2022) *FourCastNet*, [[Paper](https://arxiv.org/abs/2202.11214)]
-      * 🍬 FourCastNet: ***the first*** : FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
+  * ⭐(Arxiv preprint 2022) *FourCastNet*, [[Paper](https://arxiv.org/abs/2202.11214)]
+    * 🍬 FourCastNet: ***the first*** : FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
 
 * *NowCasting*:
   * *Precipitation*:
