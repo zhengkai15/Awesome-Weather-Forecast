@@ -83,7 +83,10 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * *Extreme*:
   * ⭐(Nature 2019) *FuXi-Extreme*, [[Paper](https://arxiv.org/abs/2310.19822)]
     * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
-  * Typhoon:
+* Typhoon*:
+  * ⭐(Arxiv 2024) *MSCAR*, [[Paper](https://arxiv.org/abs/2402.13270)]
+    * 🍬 MSCAR: ***the first*** : Global Tropical Cyclone Intensity Forecasting with Multi-modal Multi-scale Causal Autoregressive Model
+    * Tropical cyclone intensity forecasting: the MSCAR model incorporates causal relationships and operates on a large-scale multimodal dataset.
 
 * *SR*:
   * ⭐(RMetS 2023) *Uformer* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4596)]
