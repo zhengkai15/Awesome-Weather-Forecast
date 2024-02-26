@@ -66,6 +66,8 @@ An algorithm that automatically obtains data from a remote server on a regular b
       * 🍬 GAN: ***the first*** : Towards a More Realistic and Detailed Deep-Learning-Based Radar Echo Extrapolation Method
     * ⭐(GRL) *ω-GNN*, [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106676)]
       * 🍬 ω-GNN: ***the first*** : Coupling Physical Factors for Precipitation Forecast in China With Graph Neural Network
+    * ⭐(GRL) *MultiScaleGAN*, [[Paper](https://ieeexplore.ieee.org/document/9780397)] [[Code](https://github.com/luochuyao/MultiScaleGAN)]
+      * 🍬 MultiScaleGAN: ***the first*** : Experimental Study on Generative Adversarial Network for Precipitation Nowcasting
 
 
 * *Seasonal*:
