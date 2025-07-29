@@ -124,7 +124,10 @@ An algorithm that automatically obtains data from a remote server on a regular b
   * ⭐(Arxiv preprint 2023) *FengWu-4DVar* [[Paper](https://arxiv.org/abs/2312.12455)]
     * 🍬 FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation
 
- 
+* *Compression*
+  * ⭐(Arxiv preprint 2024) *CRA5*  [[Paper](https://arxiv.org/abs/2405.03376)]
+    * 🍬 CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer
+
 [//]: # ([*Contact Me*]&#40;#head7&#41;)
 
 ## <span id="head7"> *Contact Me* </span>
