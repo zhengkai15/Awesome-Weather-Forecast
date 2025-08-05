@@ -60,8 +60,6 @@ An algorithm that automatically obtains data from a remote server on a regular b
       * 🍬 Corrformer: ***the first*** : Interpretable weather forecasting for worldwide stations with a unified deep model
     * ⭐(Nature 2023) *SRNDiff* [[SRNDiff](https://arxiv.org/pdf/2402.13737.pdf)] 
       * 🍬 SRNDiff: : Short-term Rainfall Nowcasting with Condition Diffusion Model
-    * ⭐(Nature 2023) *SRNDiff* [[SRNDiff](https://arxiv.org/pdf/2402.13737.pdf)] 
-      * 🍬 SRNDiff: : Short-term Rainfall Nowcasting with Condition Diffusion Model
     * ⭐(Arxiv preprint 2023) *MetNet3*, [[Paper](https://arxiv.org/abs/2306.06079)]
       * 🍬 MetNet3: ***the first*** : Deep Learning for Day Forecasts from Sparse Observations
     * ⭐(Arxiv preprint 2023) *MetNet2*, [[Paper](https://www.nature.com/articles/s41467-022-32483-x)]
