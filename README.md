@@ -42,6 +42,8 @@ An algorithm that automatically obtains data from a remote server on a regular b
 
 * *NowCasting*:
   * *Precipitation*:
+    * ⭐(CVPR 2025) *AlphaPre*, [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.pdf)] [[Code](https://github.com/linkenghong/AlphaPre)]
+      * 🍬 AlphaPre: Amplitude-Phase Disentanglement Model for Precipitation Nowcasting
     * ⭐(Nature 2023) *NowcastNet*, [[Paper](https://www.nature.com/articles/s41586-023-06184-4)]
       * 🍬 NowcastNet: ***the first*** : Skilful nowcasting of extreme precipitation with NowcastNet
     * ⭐(Nature 2023) *Corrformer*, [[Paper](https://www.nature.com/articles/s42256-023-00667-9)]
@@ -85,7 +87,7 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * *Extreme*:
   * ⭐(Nature 2019) *FuXi-Extreme*, [[Paper](https://arxiv.org/abs/2310.19822)]
     * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
-* Typhoon*:
+* *Typhoon*:
   * ⭐(Arxiv 2024) *MSCAR*, [[Paper](https://arxiv.org/abs/2402.13270)]
     * 🍬 MSCAR: ***the first*** : Global Tropical Cyclone Intensity Forecasting with Multi-modal Multi-scale Causal Autoregressive Model
     * Tropical cyclone intensity forecasting: the MSCAR model incorporates causal relationships and operates on a large-scale multimodal dataset.
@@ -127,6 +129,9 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * *Compression*
   * ⭐(Arxiv preprint 2024) *CRA5*  [[Paper](https://arxiv.org/abs/2405.03376)]
     * 🍬 CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer
+  * ⭐(Arxiv preprint 2024) *FuXi-Regional*, [[Paper](https://arxiv.org/abs/2410.09109)]
+    * 🍬 FuXi-Regional: Compressing high-resolution data through latent representation encoding for downscaling large-scale AI weather forecast model
+
 
 [//]: # ([*Contact Me*]&#40;#head7&#41;)
 
