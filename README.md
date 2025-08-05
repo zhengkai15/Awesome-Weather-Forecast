@@ -22,7 +22,17 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * [✅] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## *Content*
+* *Assimilation Forecasting System*
+  * * ⭐(Arxiv preprint 2024) *ardvark weather* [[Paper](https://arxiv.org/abs/2408.05472)]
+    * 🍬 ardvark weather:End-to-end data-driven weather prediction
+  * * ⭐(Arxiv preprint 2024) *FuXi Weather* [[Paper](https://arxiv.org/abs/2408.05472)]
+    * 🍬 Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations
+
 * *Medium Range*:
+  * ⭐(Nature 2023) *Aurora*, Cristian Bodnar et al. [[Paper](https://arxiv.org/abs/2405.13063)]
+    * 🍬 A Foundation Model for the Earth System.
+  * ⭐(Nature 2023) *GenCast*, Ilan Price et al. [[Paper](https://arxiv.org/abs/2312.15796)]
+    * 🍬 GenCast: Diffusion-based ensemble forecasting for medium-range weather.
   * ⭐(Nature 2023) *FuXi*, chen2023fuxi et al. [[Paper](https://www.nature.com/articles/s41612-023-00512-1)]
     * 🍬 FuXi: ***the first*** : A cascade machine learning forecasting system for 15-day global weather forecast.
   * ⭐(Nature 2023) *Pangu*,[[Paper](https://www.nature.com/articles/s41586-023-06185-3)]
@@ -87,12 +97,17 @@ An algorithm that automatically obtains data from a remote server on a regular b
 * *Extreme*:
   * ⭐(Nature 2019) *FuXi-Extreme*, [[Paper](https://arxiv.org/abs/2310.19822)]
     * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
+     
 * *Typhoon*:
   * ⭐(Arxiv 2024) *MSCAR*, [[Paper](https://arxiv.org/abs/2402.13270)]
     * 🍬 MSCAR: ***the first*** : Global Tropical Cyclone Intensity Forecasting with Multi-modal Multi-scale Causal Autoregressive Model
     * Tropical cyclone intensity forecasting: the MSCAR model incorporates causal relationships and operates on a large-scale multimodal dataset.
 
 * *SR*:
+  * ⭐(Arxiv 2023) *Corr-Diff* [[Paper](https://arxiv.org/abs/2309.15214)]
+    * 🍬 Residual Corrective Diffusion Modeling for Km-scale Atmospheric Downscaling
+  * ⭐(Arxiv 2023) *FengWu-GHR* [[Paper](https://arxiv.org/abs/2402.00059)]
+    * 🍬 FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting
   * ⭐(RMetS 2023) *Uformer* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4596)]
     * 🍬 Uformer : Investigating transformer-based models for spatial downscaling and correcting biases of near-surface temperature and wind-speed forecasts.
   * ⭐(Earth-Science Reviews 2023) ** [[Paper](https://www.sciencedirect.com/science/article/pii/S0012825222001945)]
@@ -123,6 +138,8 @@ An algorithm that automatically obtains data from a remote server on a regular b
     * 🍬 Deepsd: generating high resolution climate change projections through single image super-resolution. Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining
 
 * *DA*
+  * ⭐(Arxiv preprint 2024) *FuXi DA* [[Paper](https://arxiv.org/abs/2404.08522)]
+    * 🍬 FuXi Weather: A data-to-forecast machine learning system for global weather
   * ⭐(Arxiv preprint 2023) *FengWu-4DVar* [[Paper](https://arxiv.org/abs/2312.12455)]
     * 🍬 FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation
 
