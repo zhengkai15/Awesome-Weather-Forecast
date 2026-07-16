@@ -14,9 +14,13 @@
 
 </div>
 
-A curated list of papers and resources on **AI-driven weather forecasting**, covering deep learning, generative models, foundation models, and more across the full forecasting pipeline — from data assimilation to sub-seasonal prediction.
+A curated list of papers and resources on **AI-driven weather forecasting**, covering deep learning, generative models, foundation models, LLMs, and agents across the full forecasting pipeline — from data assimilation to sub-seasonal prediction.
+
+> **Keywords:** AI weather forecast · deep learning meteorology · NWP · diffusion model · foundation model · nowcasting · data assimilation · LLM climate · atmospheric AI · neural weather model
 
 > **Want to contribute?** See [CONTRIBUTING.md](./CONTRIBUTING.md) · Submit via [Issues](https://github.com/zhengkai15/Awesome-Weather-Forecast/issues/new/choose) or PR · Maintained by [@zhengkai15](https://zhengkai15.github.io/)
+
+> ⭐ **Star this repo** to stay updated with the latest AI weather papers!
 
 ---
 
