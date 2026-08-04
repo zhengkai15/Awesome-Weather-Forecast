@@ -37,7 +37,7 @@ A curated list of papers and resources on **AI-driven weather forecasting**, cov
 | 7 | [🗜️ Data Compression](#%EF%B8%8F-7-weather-data-compression) | Compact latent representations for ERA5/CMIP6 |
 | 8 | [🏗️ Foundation Models](#%EF%B8%8F-8-atmospheric-foundation-models) | Large pre-trained multi-task atmospheric models |
 | 9 | [🤖 LLM / Agent / Multimodal](#-9-llm-agent--multimodal-weather) | LLMs, agents, and multimodal models for weather science |
-| 10 | [🤖 AI Auto-Research](#-10-llm-agent--multimodal-weather) | AI-driven discovery workflows |
+| 10 | [🤖 AI Auto-Research](#-10-ai-auto-research) | AI-driven scientific discovery workflows and research agents |
 ---
 
 ## 🗓️ Latest Updates
@@ -229,19 +229,22 @@ A curated list of papers and resources on **AI-driven weather forecasting**, cov
 
 → **[Full list](./papers/10_auto_research.md)**
 
-**Highlights:** Tianji · Zephyrus · The AI Scientist-v2 · AutoMF
+**Highlights:** The AI Scientist · TianJi · Zephyrus · AI Scientist-v2 · Robin · PANGAEA GPT · AutoMF
 
 <details>
 <summary>Preview (click to expand)</summary>
 
 | Model | Venue | Core Contribution |
 |---|---|---|
-| [Tianji](./papers/10_auto_research.md) | arXiv 2026 | Autonomous LLM agents physical-mechanism testing |
-| [The AI Scientist-v2](./papers/10_auto_research.md) | arXiv 2025 | Multimodal radar generation + understanding |
-| [Zephyrus](./papers/10_auto_research.md) | arXiv 2025 | Tool-calling meteorology science agent |
-| [Weather-R1](./papers/10_auto_research.md) | ICASSP 2026 | RL-tuned multimodal reasoning VLM |
+| [The AI Scientist](./papers/10_auto_research.md) | Nature 2026 | End-to-end autonomous AI research pipeline for ideation, experimentation, paper writing, and automated review |
+| [TianJi](./papers/10_auto_research.md) | arXiv 2026 | WRF-centered multi-agent system for autonomous atmospheric mechanism verification |
+| [Zephyrus](./papers/10_auto_research.md) | ICLR 2026 | Code-generating weather agent and benchmark for high-dimensional meteorological reasoning |
+| [The AI Scientist-v2](./papers/10_auto_research.md) | arXiv 2025 | Template-free automated scientific discovery with agentic tree search and VLM-based review |
+| [Robin](./papers/10_auto_research.md) | Nature 2026 | Lab-in-the-loop multi-agent system for hypothesis generation and biological discovery |
+| [AutoMF](./papers/10_auto_research.md) | ICPR 2022 | AutoML / NAS framework for spatio-temporal meteorological forecasting architecture search |
 
 </details>
+
 ---
 
 ## 📬 Contact
